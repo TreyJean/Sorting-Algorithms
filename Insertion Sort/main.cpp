@@ -1,5 +1,5 @@
 // Insertion Sort
-// Name: Trey Jean-Baptiste
+// Time Complexity: O(n^2) 
 
 #include<iostream>
 using namespace std;

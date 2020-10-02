@@ -1,4 +1,5 @@
 // Selection Sort
+// Time Complexity: O(n^2)
 
 #include<iostream>
 using namespace std;
